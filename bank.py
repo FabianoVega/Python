@@ -1,3 +1,9 @@
+#  Simulador de sistema bancário com funcionalidades de depósito, saque, extrato, criação de conta e cliente, e listagem de contas.
+# O código utiliza classes para representar clientes, contas e transações, além de um iterador para percorrer as contas.
+# O menu principal permite ao usuário interagir com o sistema e realizar as operações desejadas.
+
+
+
 from abc import ABC, abstractmethod
 from datetime import datetime
 import textwrap
